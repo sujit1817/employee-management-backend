@@ -42,4 +42,5 @@ port 8080
 Swagger UI available at:
 http://localhost:8080/swagger-ui/index.html
 
-Author : @Sujit Mali
+Author : Sujit Mali
+GitHub Profile
